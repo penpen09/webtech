@@ -1,2 +1,0 @@
-echo 'https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/ruby.tgz' >> .buildpacks
-echo 'https://github.com/bellycard/nginx-buildpack.git' >> .buildpacks
